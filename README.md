@@ -4,6 +4,8 @@ A macOS menu bar app that scans a Zoom chat transcript and shows you who's curre
 
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-blue) ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 
+<img src="assets/screenshot.png" alt="BRBTrack panel showing a list of absent attendees with elapsed times" width="280">
+
 ---
 
 ## What it does
