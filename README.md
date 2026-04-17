@@ -4,11 +4,11 @@ A macOS menu bar app that scans a Zoom chat transcript and shows you who's curre
 
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-blue) ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 
-<img src="assets/screenshot.png" alt="BRBTrack panel showing a list of absent attendees with elapsed times" width="280">
-
 ---
 
 ## What it does
+
+<table><tr><td valign="top">
 
 During a long Zoom call it's easy to lose track of who stepped away. BRBTrack reads a saved Zoom chat log, detects BRB-style messages ("brb", "be right back", "back in 5", etc.), and presents a live list of everyone who's still out — right from your menu bar.
 
@@ -17,6 +17,12 @@ During a long Zoom call it's easy to lose track of who stepped away. BRBTrack re
 - Adjust the look-back window (default 45 minutes) to narrow or widen the scope
 - Copy the list to your clipboard in one click
 - Anyone who sends "I'm back" or "back!" is automatically cleared from the list
+
+</td><td valign="top" width="300">
+
+<img src="assets/screenshot.png" alt="BRBTrack panel showing a list of absent attendees with elapsed times" width="280">
+
+</td></tr></table>
 
 ---
 
