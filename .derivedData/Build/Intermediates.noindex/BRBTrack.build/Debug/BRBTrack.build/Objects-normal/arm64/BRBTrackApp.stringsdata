@@ -1,0 +1,16 @@
+{
+  "source": "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/BRBTrackApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "BRB//TRACK",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 10
+        }
+      }
+    ]
+  },
+  "version": 1
+}

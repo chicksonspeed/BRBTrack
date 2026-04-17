@@ -1,0 +1,96 @@
+{
+  "source": "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/BRBTrackPanelViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Quit BRB Track",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quit BRB Track",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Who said they'd be right back",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "BRB // TRACK",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Drop chat log or click to open",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Zoom saved chat (.txt)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change file…",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "SHOW BRB FROM LAST",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy list as text",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 253
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy list",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 254
+        }
+      },
+      {
+        "comment": "",
+        "key": "(%@)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 292
+        }
+      }
+    ]
+  },
+  "version": 1
+}

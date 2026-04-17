@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBTrackTests-primary.dia",
+    "emit-module-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBTrackTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBTrackTests-primary-emit-module.dia",
+    "pch" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBTrackTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBTrackTests-primary.swiftdeps"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrackTests/BRBDetectorTests.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBDetectorTests.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBDetectorTests.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBDetectorTests.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBDetectorTests.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBDetectorTests.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBDetectorTests.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBDetectorTests.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/BRBDetectorTests~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrackTests/ChatTranscriptParserTests.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/ChatTranscriptParserTests.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/ChatTranscriptParserTests.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/ChatTranscriptParserTests.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/ChatTranscriptParserTests.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/ChatTranscriptParserTests.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/ChatTranscriptParserTests.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/ChatTranscriptParserTests.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedDataBuild/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrackTests.build/Objects-normal/arm64/ChatTranscriptParserTests~partial.swiftmodule"
+  }
+}

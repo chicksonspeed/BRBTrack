@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'BRBTrackTests' in project 'BRBTrack'
+➜ Explicit dependency on target 'BRBTrack' in project 'BRBTrack'
+Target 'BRBTrack' in project 'BRBTrack' (no dependencies)

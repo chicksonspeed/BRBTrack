@@ -1,0 +1,109 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrack-primary.dia",
+    "emit-module-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrack-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrack-primary-emit-module.dia",
+    "pch" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrack-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrack-primary.swiftdeps"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/BRBDetector.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBDetector.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBDetector.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBDetector.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBDetector.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBDetector.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBDetector.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBDetector.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBDetector~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/BRBTrackApp.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackApp.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackApp.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackApp.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackApp.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackApp.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackApp.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackApp.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackApp~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/BRBTrackPanelViews.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackPanelViews.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackPanelViews.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackPanelViews.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackPanelViews.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackPanelViews.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackPanelViews.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackPanelViews.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBTrackPanelViews~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/BRBViewModel.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBViewModel.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBViewModel.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBViewModel.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBViewModel.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBViewModel.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBViewModel.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBViewModel.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/BRBViewModel~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/ChatTranscriptParser.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ChatTranscriptParser.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ChatTranscriptParser.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ChatTranscriptParser.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ChatTranscriptParser.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ChatTranscriptParser.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ChatTranscriptParser.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ChatTranscriptParser.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ChatTranscriptParser~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/ContentView.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/DesignSystem.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystem.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystem.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystem.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystem.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystem.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystem.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystem.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystem~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/DesignSystemUI.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystemUI.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystemUI.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystemUI.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystemUI.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystemUI.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystemUI.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystemUI.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/DesignSystemUI~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/Models.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/BRBTrack/PresenceTracker.swift" : {
+    "const-values" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/PresenceTracker.swiftconstvalues",
+    "dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/PresenceTracker.d",
+    "diagnostics" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/PresenceTracker.dia",
+    "index-unit-output-path" : "/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/PresenceTracker.o",
+    "llvm-bc" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/PresenceTracker.bc",
+    "object" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/PresenceTracker.o",
+    "swift-dependencies" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/PresenceTracker.swiftdeps",
+    "swiftmodule" : "/Users/hampusnilsson/zoom scripts/AwayList/BRBTrack/.derivedData/Build/Intermediates.noindex/BRBTrack.build/Debug/BRBTrack.build/Objects-normal/arm64/PresenceTracker~partial.swiftmodule"
+  }
+}
